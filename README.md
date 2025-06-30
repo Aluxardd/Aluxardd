@@ -37,7 +37,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](
-https:/www.linkedin.com/in/sergiu-coceban-94630219b)
+https://www.linkedin.com/in/sergiu-coceban-94630219b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiucoceban62@gmail.com)
 
 ---
