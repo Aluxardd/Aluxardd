@@ -12,7 +12,6 @@
 - 🛡️ Passionate about cybersecurity, red teaming, and ethical hacking  
 - 🖥️ Experienced in designing secure software architectures  
 - 📚 Lifelong learner exploring cloud infrastructure, automation, and DevSecOps  
-- 🌐 Advocate of open source and secure, privacy-first tech
 
 ---
 
