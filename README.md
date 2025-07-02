@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sergio </h1>
 <p align="center">
   🧑‍💻 Full-Stack Developer & Software Engineer <br>
-  Cybersecurity Red Teamer | Ethical Hacker
 </p>
 
 ---
@@ -9,8 +8,8 @@
 ### 🚀 About Me
 
 - 🔭 Currently building full-stack applications  
-- 🛡️ Passionate about cybersecurity, red teaming, and ethical hacking  
-- 🖥️ Experienced in designing secure software architectures  
+- 🛡️ Passionate about cybersecurity, full-stack software development/engineering,   
+- 🖥️ Experienced in designing software architectures  
 - 📚 Lifelong learner exploring cloud infrastructure, automation, and DevSecOps  
 
 ---
